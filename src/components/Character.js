@@ -97,4 +97,6 @@ const Character = (props) => {
   return content;
 };
 
-export default React.memo(Character);
+export default React.memo(Character, (prevProps, nextProps) => {
+  return nextProps.selectedChar === prevProps.selectedChar;
+});
