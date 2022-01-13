@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Having Issues with code 
+the issue I was having was in line 26 of Character : missing dependency react-hooks/exhaustive-deps. The way I tried to resolve this warning was by installing these packages: 
+first install ESLint
+`npm install eslint --save-dev`
+then the the package missing 
+`npm install eslint-plugin-react-hooks --save-dev`
+
+I still had the same issue. 
