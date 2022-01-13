@@ -2,7 +2,7 @@ import React from "react";
 
 import { useHttp } from "../hooks/http";
 
-import "./CharPicker.css";
+import "/components/CharPicker.css";
 
 const CharPicker = (props) => {
   const [isLoading, fetchedData] = useHttp("https://swapi.co/api/people", []);
