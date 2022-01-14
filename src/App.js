@@ -3,12 +3,6 @@ import React, { useState } from 'react';
 import CharPicker from './components/CharPicker';
 import Character from './components/Character';
 
-// const cors = require("cors")
-// app.use(
-//   cors({
-//     origin: "https://swapi.co/api/people",
-//   })
-// )
 
 const App = props => {
   // const [state, setState] = useState({

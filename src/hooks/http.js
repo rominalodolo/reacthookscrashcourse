@@ -1,5 +1,12 @@
 import { useState, useEffect } from "react";
 
+// const cors = require("cors")
+// app.use(
+//   cors({
+//     origin: "https://swapi.co/api/people",
+//   })
+// )
+
 export const useHttp = (url, dependencies) => {
   const [isLoading, setIsLoading] = useState(false);
   const [fetchedData, setFetchedData] = useState(null);
