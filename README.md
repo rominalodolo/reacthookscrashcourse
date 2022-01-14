@@ -88,3 +88,8 @@ After all my research and findings I came to know that SWAPI isn't maintained an
 ![swapi](https://user-images.githubusercontent.com/83961643/149470377-24840b99-3686-4b0b-bfe2-7482fd493827.jpeg)
 
 However, I could not find what would be supported from their statement. 
+
+![starwars](https://user-images.githubusercontent.com/83961643/149471581-002d508c-7fee-45aa-b11b-c525e8557f83.jpeg)
+![totaldestruction](https://user-images.githubusercontent.com/83961643/149471600-0d8b1bac-b827-4a45-96eb-355a9d3b0a17.jpeg)
+
+This was how the app turned out due to the fact that it couldn't fetch data but the app should be able to run in it had the data.
