@@ -78,7 +78,8 @@ then the the package missing
 `npm install eslint-plugin-react-hooks --save-dev`
 
 I still had the same issue. 
-Then I installed and researched more on CORS and the main issue of 
+I installed: 
 `npm i cors`
+then researched more on CORS and the main issue as seen in the screenshot below
 ![cors_ERROR](https://user-images.githubusercontent.com/83961643/149460299-7d220258-5ba7-497e-9275-d96b98de7cb8.jpeg)
 
