@@ -83,4 +83,8 @@ I installed:
 then researched more on CORS and the main issue as seen in the screenshot below
 ![cors_ERROR](https://user-images.githubusercontent.com/83961643/149460299-7d220258-5ba7-497e-9275-d96b98de7cb8.jpeg)
 
-After all my research and findings I came to know that SWAPI isn't maintained anymore which would mean that I wouldn't ba able to gain access to the data. ![swapi](https://user-images.githubusercontent.com/83961643/149470377-24840b99-3686-4b0b-bfe2-7482fd493827.jpeg)
+After all my research and findings I came to know that SWAPI isn't maintained anymore which would mean that I wouldn't ba able to gain access to the data. 
+
+![swapi](https://user-images.githubusercontent.com/83961643/149470377-24840b99-3686-4b0b-bfe2-7482fd493827.jpeg)
+
+However, I could not find what would be supported from their statement. 
