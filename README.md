@@ -80,3 +80,5 @@ then the the package missing
 I still had the same issue. 
 Then I installed and researched more on CORS and the main issue of 
 `npm i cors`
+![cors_ERROR](https://user-images.githubusercontent.com/83961643/149460299-7d220258-5ba7-497e-9275-d96b98de7cb8.jpeg)
+
